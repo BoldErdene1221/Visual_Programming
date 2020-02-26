@@ -1,0 +1,18 @@
+.root {
+    -fx-background-color: #d3cfc9;
+}
+
+.first-button {
+    -fx-max-width: 100px;
+    -fx-background-color: #d3cfc9;
+    -fx-border-width: 2;
+    -fx-border-color: #E4E0D8 #615D57 #615D57 #E4E0D8;
+    -fx-border-style: solid;
+    -fx-min-width: 70px;
+}
+
+.section3 {
+    -fx-border-width: 1 0 0 0;
+    -fx-border-style: solid;
+    -fx-border-color: #615D57;
+}
