@@ -1,0 +1,33 @@
+.root{
+    -fx-background-color: #d3cfc9;
+}
+.first-button{
+    -fx-max-width: 100;
+    -fx-background-color: #d3cfc9;
+    -fx-border-width: 2;
+    -fx-border-color: #E4E0D8 #615D57 #615D57 #E4E0D8;
+    -fx-border-style: solid;
+}
+.second-but{
+    -fx-max-width: 100;
+    -fx-background-color: #d3cfc9;
+    -fx-border-width: 2;
+    -fx-border-color: #E4E0D8 #615D57 #615D57 #E4E0D8;
+    -fx-border-style: solid;
+}
+.small-title{
+    -fx-background-color: #d3cfc9;
+    -fx-max-width: 50;
+}
+.small-title1{
+    -fx-background-color: #d3cfc9;
+    -fx-max-width: 30;
+}
+.second-section{
+    -fx-border-width: 2;
+    -fx-border-color: #ada69f;
+}
+.third-section{
+    -fx-border-width: 2;
+    -fx-border-color: #ada69f;
+}
